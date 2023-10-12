@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PizzaDeliveryApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorControlActivated">#FF5722</item>
+    </style>
+
+    <style name="Theme.PizzaDeliveryApp" parent="Base.Theme.PizzaDeliveryApp" />
+
+    <style name="SplashTheme" parent="Base.Theme.PizzaDeliveryApp">
+        <item name="android:statusBarColor">@color/splashStatusBarColor</item>
+    </style>
+
+    <style name="GetStartedTheme" parent="Base.Theme.PizzaDeliveryApp">
+        <item name="android:statusBarColor">@color/getStartedStatusBarColor</item>
+    </style>
+
+    <style name="LoginTheme" parent="Base.Theme.PizzaDeliveryApp">
+        <item name="android:statusBarColor">@color/LoginStatusBarColor</item>
+    </style>
+
+    <style name="MainTheme" parent="Base.Theme.PizzaDeliveryApp">
+        <item name="android:statusBarColor">@color/MainStatusBarColor</item>
+    </style>
+
+    <style name="DetailsTheme" parent="Base.Theme.PizzaDeliveryApp">
+        <item name="android:statusBarColor">@color/DetailsStatusBarColor</item>
+    </style>
+
+    <style name="OrderTheme" parent="Base.Theme.PizzaDeliveryApp">
+        <item name="android:statusBarColor">@color/OrderStatusBarColor</item>
+    </style>
+
+</resources>

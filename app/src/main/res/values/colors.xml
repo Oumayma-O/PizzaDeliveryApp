@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splashStatusBarColor">#8F633A</color>
+    <color name="getStartedStatusBarColor">#DA8032</color>
+    <color name="GetStartedButtonColor">#F41422</color>
+    <color name="LoginStatusBarColor">#F4AE3D</color>
+    <color name="MainStatusBarColor">#E6A930</color>
+    <color name="DetailsStatusBarColor">#C48100</color>
+    <color name="OrderStatusBarColor">#C48100</color>
+
+
+
+
+
+</resources>
